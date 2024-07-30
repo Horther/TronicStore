@@ -1,0 +1,12 @@
+
+.footer {
+    background-color: #ccc;
+}
+
+section #postagens p {
+    font-size: 1.5em;
+}
+section #postagens h4 {
+    font-size: 2em;
+    font-weight: bold;
+}
